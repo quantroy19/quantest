@@ -13,6 +13,6 @@ class Controller extends BaseController
 
     public function quan()
     {
-        # code...
+        dd(333);
     }
 }
